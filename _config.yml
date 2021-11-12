@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://eunyeongee.github.io"
 
 # Blog Settings
 theme_settings :
@@ -10,8 +10,8 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : 한은영
+    description : 안녕
     experience :
       - start : 2017-05-03
         end : 2018-05-06
@@ -24,7 +24,7 @@ theme_settings :
   icons :
     email:  # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: naye0ng
+    github: eunyeongee
     gitlab: 
     bitbucket: 
     google_plus:
